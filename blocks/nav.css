@@ -9,6 +9,11 @@
   top: 30px;
 }
 
+.logo {
+  width: 105px;
+  height: 39px;
+}
+
 .nav__links {
   padding: 0;
   margin: 0;

@@ -13,11 +13,6 @@
   position: relative;
 }
 
-.logo {
-  width: 105px;
-  height: 39px;
-}
-
 .header__title {
   max-width: 709px;
   display: flex;
