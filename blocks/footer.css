@@ -7,7 +7,7 @@
   overflow: hidden;
 }
 
-.footer__section {
+.footer__content {
   display: flex;
   justify-content: space-between;
   margin: 60px 80px 108px 80px;
